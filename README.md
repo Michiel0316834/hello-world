@@ -1,2 +1,3 @@
 # hello-world
-eerste repository
+
+Hoi, ik ben Michiel
